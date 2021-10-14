@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-imagesurl		             : "/https://AdrianLai88.github.io/images/"
-thumbsurl		             : "/https://AdrianLai88.github.io/thumbs/"
+imagesurl		             : "https://adrianlai88.github.io/images/"
+thumbsurl		             : "https://adrianlai88.github.io/thumbs/"
 locale                   : "en-US"
 title                    : "Adrian Lai / My story"
 title_separator          : "-"
@@ -59,7 +59,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : adriankmlai
 facebook:
   username               :
   app_id                 :
@@ -84,12 +84,12 @@ analytics:
 author:
   name             : "Adrian Lai"
   avatar           : "_DSC7925_v2.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Researcher at lululemon Labs"
   location         : "Vancouver, BC, Canada"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=6cfc9AsAAAAJ&hl=en"
-  email            :
+  email            : "adrianlai@lululemon.com"
   researchgate     : "https://www.researchgate.net/profile/Adrian-Lai"
   uri              :
   bitbucket        :
